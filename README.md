@@ -1,4 +1,4 @@
-# deep_learning_fashion_MNIST
+# Image Classification with Fashion MNIST Dataset using Deep Learning
 
 ![image](https://github.com/Divyanalam98/deep_learning_fashion_MNIST/assets/63960112/94cd605e-9fa2-4b8c-8a4a-18e42190dfbb)
 
