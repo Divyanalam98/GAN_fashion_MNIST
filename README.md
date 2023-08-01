@@ -8,3 +8,6 @@ The dataset's small image size (28x28 pixels) and simplicity make it an ideal st
 Researchers often use Fashion MNIST to benchmark and compare the performance of various deep learning models and algorithms.
 Deep learning using Fashion MNIST serves as a practical introduction to computer vision tasks and provides a foundation for tackling more complex image-related challenges. 
 As researchers and practitioners gain experience, they can apply similar techniques to real-world problems, such as object recognition, medical imaging, and autonomous vehicles.
+
+Dataset: Obtained from Kaggle.
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
